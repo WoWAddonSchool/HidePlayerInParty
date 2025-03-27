@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: HidePlayerInParty
+## Notes: Hides player frame when in party and shows party frames
+## Version: 1.0
+## SavedVariables: HidePlayerInPartyDB
+
+HidePlayerInParty.lua
